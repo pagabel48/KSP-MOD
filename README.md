@@ -1,0 +1,1 @@
+This project uses the Kerbal Operating System Mod to automatically launch rockets in Kerbal Space Program. This script takes the most efficient trajectory to place rockets into perfectly circular orbits using open loop control.
